@@ -74,7 +74,7 @@ Throughout the program, I will work on practical projects, including:
 
 This repository will be continuously updated as I progress through the program.
 
-- [] Week 01 – HTML Fundamentals
+- [ ] Week 01 – HTML Fundamentals
 - [ ] Week 02 – CSS & Responsive Design
 - [ ] Week 03 – JavaScript & React Introduction
 - [ ] Week 04 – Job Readiness
